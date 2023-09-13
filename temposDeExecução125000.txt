@@ -1,0 +1,4 @@
+Tempo total de execução do Selecao: 49813 ms
+Tempo médio de execução do Selecao: 996 ms
+Tempo total de execução do Quicksort: 416 ms
+Tempo médio de execução do Quicksort: 8 ms

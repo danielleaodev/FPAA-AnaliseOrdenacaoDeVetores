@@ -1,0 +1,2 @@
+Tempo médio de execução do Quicksort Aleatório: 1 ms
+Tempo médio de execução do Quicksort Ordenado: 40 ms
