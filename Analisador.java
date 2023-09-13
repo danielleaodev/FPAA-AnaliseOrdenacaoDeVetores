@@ -13,7 +13,7 @@ public class Analisador {
     public static void main(String[] args) {
         
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Digite a questão do trabalho que deseja executar: ");
+        System.out.println("Digite a questão (1 ou 2) do trabalho que deseja executar: ");
 
         int escolha = scanner.nextInt();
 
